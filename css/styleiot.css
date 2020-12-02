@@ -1,0 +1,8 @@
+#raspi{
+    height: 40em;
+}
+#mainh{
+    display: flex;
+    margin-top: 1em;
+    margin-left: 1em;
+}
